@@ -2,7 +2,7 @@
 **I am passionate about DATA SCIENCE & ANALYTICS | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |** 
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30DFAA&center=true&vCenter=true&random=false&width=435&lines=Kumar+B.+Boste;Data+%26+Science+ & Analytics+;"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30DFAA&center=true&vCenter=true&random=false&width=435&lines=Kumar+B.+Boste;Data+%26+Science+ & Analytics+;"alt= />
 </h1>
 
 <p align="center">

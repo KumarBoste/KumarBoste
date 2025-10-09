@@ -1,6 +1,16 @@
 # Hi 👋, I'm KUMAR BOSTE
-**I am passionate about DATA SCINECE & ANALYTICS | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |** 
+**I am passionate about DATA SCIENCE & ANALYTICS | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |** 
 
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30DFAA&center=true&vCenter=true&random=false&width=435&lines=Kumar+B.+Boste;Data+%26+Science+Analytics+;Business+Transformation+Mentor;"alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*eTg3araLLlU1QL6C6hJg5w.gif" alt="Data Science Gif" width="700"/>
+</p>
+
+<div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kumar18v_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kumar-Boste) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bostekumar@gmail.com) 
 

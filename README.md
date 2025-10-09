@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm KUMAR BOSTE
+# Hi 👋, I'm KUMAR BOSTE
 **I am passionate about DATA SCINECE & ANALYTICS | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |** 
 
 ## 🌐 Socials:

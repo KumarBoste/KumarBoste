@@ -1,7 +1,6 @@
-<img align="left" alt="dagif" width="600" height="400" src="https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif">
 # Hi 👋, I'm KUMAR BOSTE
 **A Passionate DATA ANALYST** | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |
-
+![DA-GIF](https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif)
 
 # Connect with Me
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bostekumar@gmail.com) 

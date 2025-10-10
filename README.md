@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kumar-Boste)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kumar18v_)
 
-<img align="right" alt="dagif" width="800" height="600" src="https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif">
+<img align="right" alt="dagif" width="80" height="60" src="https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif">
 
 # 💻 Technical Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

@@ -1,6 +1,6 @@
+<img align="left" alt="dagif" width="600" height="400" src="https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif">
 # Hi 👋, I'm KUMAR BOSTE
 **A Passionate DATA ANALYST** | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |
-<img align="left" alt="dagif" width="400" src="https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif">
 
 
 # Connect with Me

@@ -1,5 +1,5 @@
 # Hi 👋, I'm KUMAR BOSTE
-**A Passionate DATA ANALYST** with Strong Based in | AL/ML | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |
+**A Passionate DATA ANALYST** with Strong Based in | PYTHON | NUMPY | POWER-BI | TABLEAU | STATISTICS | PANDAS | SQL | EXCEL |
 
 ![DA-GIF](https://github.com/KumarBoste/KumarBoste/blob/main/giphy.gif)
 
